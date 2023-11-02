@@ -17,4 +17,5 @@ a functions.php, I tested the child theme from the a -->
     //     wp_get_theme()->get('Version') 
     //     );
     // }
+    define( 'DISALLOW_FILE_EDIT', true );
 ?>
